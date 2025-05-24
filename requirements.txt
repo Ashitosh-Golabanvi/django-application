@@ -1,0 +1,8 @@
+# Core Django framework
+Django>=4.2
+
+# Load environment variables from .env
+python-dotenv>=1.0.0
+
+# Code linter
+flake8>=6.0.0
