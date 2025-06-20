@@ -1,1 +1,1 @@
-Django Application
+Django Backend Application
